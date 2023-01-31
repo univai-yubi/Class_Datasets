@@ -1,5 +1,5 @@
 curdir=`pwd`
-cd data
+cd tmp
 mkdir glove
 cd glove
 # need to download glove from http://nlp.stanford.edu/data/glove.6B.zip
