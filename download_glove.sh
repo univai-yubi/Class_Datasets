@@ -1,4 +1,5 @@
 curdir=`pwd`
+mkdir -p tmp
 cd tmp
 mkdir glove
 cd glove
